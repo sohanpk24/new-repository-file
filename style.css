@@ -1,0 +1,14 @@
+div{
+    border: 2px solid black;
+    background: yellowgreen;
+    color: grey;
+    width: 200px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    text-shadow:0cm;
+}
